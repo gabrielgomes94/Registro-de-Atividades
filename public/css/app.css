@@ -1,0 +1,42 @@
+.button__adicionar-atividade{
+	position: fixed;
+	right: 5%;
+	bottom: 50px;
+}
+
+.filtros{
+	display: inline-flex;
+	width: 100%;
+	margin: auto;
+}
+.lista-atividades{
+	width: 100%;
+	margin: auto;
+}
+.mdl-textfield{
+	width: 200px;
+	margin: 8px;
+}
+.mdl-textfield__input{
+	width: 100%;
+}
+.tabela__atividades{
+	width: 100%;
+}
+.tabela__atividades--total-horas{
+	font-size: 18px;
+}
+.card__tabela{
+	width: 100%;
+}
+.select-data--wrapper{
+	display: inline-grid;
+	margin: 8px;
+}
+.select-data--label{
+   color: rgb(63,81,181);
+}
+
+.submit__form-registro{
+	margin: 8px;
+}
